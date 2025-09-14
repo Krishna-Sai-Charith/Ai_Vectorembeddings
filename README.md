@@ -93,6 +93,3 @@ You'll walk away understanding:
 - How embeddings power intelligent document search  
 - Why databases like Chroma are essential in AI search  
 - The visual intuition behind "semantic similarity"
-
----
-```
